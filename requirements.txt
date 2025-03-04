@@ -1,0 +1,3 @@
+# Python Link Shell Extension 依赖
+# 本项目主要使用Python标准库，但编译需要以下依赖
+pyinstaller>=5.0.0
